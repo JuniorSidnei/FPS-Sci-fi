@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProjects/FPS_Scifi_Prototype/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UnrealProjects/FPS_Scifi_Prototype/Content/Maps/Basic.umap",
+				"D:/UnrealProjects/FPS_Scifi_Prototype/Content/BPS/BP_PlayerCharacter.uasset",
+				"D:/UnrealProjects/FPS_Scifi_Prototype/Content/BPS/BasicGameMode.uasset",
+				"D:/UnrealProjects/FPS_Scifi_Prototype/Content/BPS/Player/BP_PlayerCharacter.uasset",
+				"D:/UnrealProjects/FPS_Scifi_Prototype/Content/BPS/UI/WP_StaminaBar.uasset"
+			]
+		}
+	]
+}
